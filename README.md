@@ -4,7 +4,8 @@ Welcome to the repository containing books, reference materials, and supplementa
 
 ## 📂 Repository Structure
 
-The repository is organized into folders for each course, making it easy to navigate and find relevant materials:
+The repository is organized into folders for each course, making it easy to navigate and find relevant materials.
+
 ---
 
 ## 🤝 Contribution
